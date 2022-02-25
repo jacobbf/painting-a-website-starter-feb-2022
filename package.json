@@ -12,9 +12,5 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0"
-  },
-  "dependencies": {
-    "bindery": "^2.3.6",
-    "esbuild": "^0.14.23"
   }
 }
